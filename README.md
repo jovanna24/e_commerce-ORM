@@ -26,7 +26,7 @@
 - BootCampSpot Tutoring Services
 
 ## Walkthrough Video <a name="walkthrough"></a> 
-    Link to video: https://www.youtube.com/watch?v=URyjW6q1vu8
+    Link to video: https://www.youtube.com/watch?v=l6gLPY4opUo
     
 
 ## License <a name="license"></a>
