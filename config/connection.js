@@ -8,8 +8,11 @@ if (process.env.DB_URL) {
 } else {
   sequelize = new Sequelize(
     DB_NAME='ecommerce_db',
-    DB_PASSWORD='postgres',
-    DB_USER='Dxsxxd1124!',
+    DB_USER='postgres', 
+    DB_PASSWORD='Dxsxxd1124!',
+    // process.env.DB_NAME,
+    // process.env.DB_USER,
+    // process.env.DB_PASSWORD,
     {
       host: 'localhost',
       dialect: 'postgres'
